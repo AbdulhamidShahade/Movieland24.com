@@ -1,6 +1,6 @@
 # 🎬 Movieland24.com (Version 1.0)
 
-**An all-in-one web application for discovering movies and purchasing tickets, combining rich media content with a seamless user experience.**
+**A multi-layer web application for discovering movies and purchasing tickets, combining rich media content with a seamless user experience.**
 
 ---
 
